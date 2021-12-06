@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS01SBPS-PC01A-4B-PHSENA102-streamed-phsen_battery_voltage
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Battery Voltage Data<br>
+Instrument Group Code: PHSEN<br>
